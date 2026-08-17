@@ -5,6 +5,9 @@
 🎓 Estudante de **Sistemas de Informação** na **UNITINS** | 📍 Natural de **Tocantins**  
 💻 Apaixonado por tecnologia, programação e inovação.  
 🔍 Atualmente, estou em busca de **oportunidades para ganhar experiência prática** e avançar na minha **profissionalização** como desenvolvedor.
+<a href="https://joaopopaulino.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-Visitar-7B68EE?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
@@ -141,9 +144,26 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPOPaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPOPaulino&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=JoaoPOPaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPOPaulino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=JoaoPOPaulino&theme=tokyonight&hide_border=true"
+/>
+
+</div>
