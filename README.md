@@ -5,6 +5,7 @@
 🎓 Estudante de **Sistemas de Informação** na **UNITINS** | 📍 Natural de **Tocantins**  
 💻 Apaixonado por tecnologia, programação e inovação.  
 🔍 Atualmente, estou em busca de **oportunidades para ganhar experiência prática** e avançar na minha **profissionalização** como desenvolvedor.
+
 <a href="https://joaopopaulino.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-Visitar-7B68EE?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -19,7 +20,6 @@
 <a href="mailto:joaopoliveirapaulino@gmail.com" target="_blank">
   <img align="left" alt="E-mail" title="E-mail" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
-
 
 <br/>
 <br/>
@@ -150,20 +150,14 @@
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=JoaoPOPaulino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  src="./profile/stats.svg"
+  alt="Estatísticas do GitHub"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPOPaulino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=JoaoPOPaulino&theme=tokyonight&hide_border=true"
+  src="./profile/top-langs.svg"
+  alt="Linguagens mais usadas"
 />
 
 </div>
